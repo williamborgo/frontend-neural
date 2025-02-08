@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "react_native",
-    "slug": "react_native",
+    "name": "neura",
+    "slug": "neura",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "neura",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
